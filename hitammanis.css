@@ -42,10 +42,10 @@ li {list-style-type:none;}
 }
 
 .cb-slideshow li:nth-child(1) span {
-	background-image: url(https://thumbs.gfycat.com/LeftTornBoaconstrictor-max-1mb.gif)
+	background-image: url(https://media.giphy.com/media/kvYep9GJ9IMjed9c0m/giphy.gif)
 }
 .cb-slideshow li:nth-child(2) span {
-	background-image: url(https://media.giphy.com/media/iqHqnfbOEk0BFx5nWN/giphy.gif);
+	background-image: url(https://media.giphy.com/media/2hgwy7GmtKu8geUN9O/giphy.gif);
 	-webkit-animation-delay: 10s;
 	-moz-animation-delay: 10s;
 	-o-animation-delay: 10s;
@@ -53,12 +53,12 @@ li {list-style-type:none;}
 	animation-delay: 10s;
 }
 .cb-slideshow li:nth-child(3) span {
-	background-image: url(https://media.giphy.com/media/65MqinwS6mXbDsz3mB/giphy.gif);
-	-webkit-animation-delay: 20s;
-	-moz-animation-delay: 20s;
-	-o-animation-delay: 20s;
-	-ms-animation-delay: 20s;
-	animation-delay: 20s;
+	background-image: url(https://media.giphy.com/media/iqHqnfbOEk0BFx5nWN/giphy.gif);
+	-webkit-animation-delay: 10s;
+	-moz-animation-delay: 10s;
+	-o-animation-delay: 10s;
+	-ms-animation-delay: 10s;
+	animation-delay: 10s;
 }
 @-webkit-keyframes imageAnimation { 
 	0% {
